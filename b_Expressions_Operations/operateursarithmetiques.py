@@ -6,7 +6,7 @@
 #ARRONDISSMENT
 import math 
 print(math.floor(1.2), '1m goes down')
-print(math.ceil(2.8, '3 goes up'))
+print(math.ceil(2.8), '3 goes up')
 
 #RACIINE ET PUISSANCE
 

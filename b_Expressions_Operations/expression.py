@@ -134,3 +134,4 @@ print(5|3)
 10
 # Divides entre 2 y lees los residuos de abajo hacia arriba.
 # Binario → decimal lees de izquierda a derecha, pero cada posicion tiene potencia de 2
+
